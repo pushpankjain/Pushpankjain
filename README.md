@@ -12,11 +12,11 @@
 
 Chartered Accountant (ICAI, 2024) currently working as an Associate in **Financial Due Diligence at PwC Mumbai**. Prior experience at EY across assurance and financial controls.
 
-I work at the intersection of deal analysis, financial modelling, and data — helping investors and acquirers stress-test businesses before writing cheques. I've advised on transactions spanning **AI infrastructure, D2C consumer brands, ethnic apparel, FMCG, and real estate**, across both buy-side and sell-side mandates.
+I work at the intersection of deal analysis, financial modelling, and data - helping investors and acquirers stress-test businesses before writing cheques. I've advised on transactions spanning **AI infrastructure, D2C consumer brands, ethnic apparel, FMCG, and real estate**, across both buy-side and sell-side mandates.
 
-This GitHub is my space to open-source the finance frameworks I use daily — QoE templates, market sizing models, and deal memo structures — and to document my journey into data-driven finance.
+This GitHub is my space to open-source the finance frameworks I use daily - QoE templates, market sizing models, and deal memo structures - and to document my journey into data-driven finance.
 
-🌍 **Actively exploring M&A, PE, and Transaction Services roles in Europe.**
+🌍 **Actively exploring M&A, PE, Transaction Services, Corporate Finance, Strategic Finance, FP&A, Strategy and other finance related roles in Europe.**
 
 ---
 
@@ -36,10 +36,10 @@ This GitHub is my space to open-source the finance frameworks I use daily — Qo
 
 | Repo | What's inside |
 |------|--------------|
-| [financial-due-diligence-toolkit](https://github.com/pushpankjain/financial-due-diligence-toolkit) | Python & Excel templates for QoE, EBITDA normalization, net debt bridging |
-| [market-sizing-india](https://github.com/pushpankjain/market-sizing-india) | TAM frameworks for Indian consumer markets — ethnic wear, FMCG, ice cream |
+| [financial-due-diligence-toolkit](https://github.com/pushpankjain/financial-due-diligence-toolkit) | Framework for QoE, EBITDA normalization, net debt bridging |
+| [market-sizing-india](https://github.com/pushpankjain/market-sizing-india) | TAM frameworks for Indian consumer markets - ethnic wear, FMCG, ice cream |
 | [pe-deal-memo-templates](https://github.com/pushpankjain/pe-deal-memo-templates) | Open-source IC paper & investment memo templates |
-| [ca-exam-notes](https://github.com/pushpankjain/ca-exam-notes) | ICAI CA Final structured notes — SFM, Audit, FR |
+| [ca-exam-notes](https://github.com/pushpankjain/ca-exam-notes) | ICAI CA Final structured notes - Strategic financial management, Audit, Costing, FInancial Reporting |
 
 ---
 
@@ -55,7 +55,7 @@ This GitHub is my space to open-source the finance frameworks I use daily — Qo
 
 ## Certifications
 
-- Career Essentials in Generative AI — Microsoft/LinkedIn
+- Career Essentials in Generative AI - Microsoft/LinkedIn
 - Deals Bootcamp: Future Ready Deals Professional
 - Mastering the Art of Prompt Engineering
 
@@ -63,8 +63,8 @@ This GitHub is my space to open-source the finance frameworks I use daily — Qo
 
 ## Education
 
-- **Chartered Accountant** — ICAI (2020–2024)
-- **B.Com** — University of Rajasthan (2019–2022)
+- **Chartered Accountant** - ICAI (2020–2024)
+- **B.Com** - University of Rajasthan (2019–2022)
 
 ---
 
