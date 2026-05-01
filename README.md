@@ -47,7 +47,7 @@ This GitHub is my space to open-source the finance frameworks I use daily - QoE 
 
 **Finance:** Financial Due Diligence · Quality of Earnings · EBITDA Normalization · Net Debt Bridge · Working Capital Analysis · Market Sizing · Unit Economics · CAC/LTV Analysis
 
-**Tools:** MS Excel (Advanced) · Power BI · Python (learning) · Prompt Engineering · Generative AI tools
+**Tools:** MS Excel (Advanced) · Power BI · AI · Prompt Engineering · Generative AI tools
 
 **Soft skills:** Stakeholder management · IC presentations · Cross-sector deal experience
 
