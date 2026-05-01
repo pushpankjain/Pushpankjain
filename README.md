@@ -1,6 +1,6 @@
 # Hi, I'm Pushpank Jain !!
 
-**Chartered Accountant · Financial Due Diligence · M&A · Transaction Advisory · Strategic Finance · Corporate Finance · FP&A · Industry · Business Finance · Strategy**
+**Chartered Accountant · Financial Due Diligence · M&A · Transaction Advisory · Corporate Finance · Strategy**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpank_Jain-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushpankjain)
 [![Location](https://img.shields.io/badge/Based_in-Mumbai,_India-orange?style=flat)](https://maps.google.com/?q=Mumbai)
