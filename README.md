@@ -39,7 +39,7 @@ This GitHub is my space to open-source the finance frameworks I use daily - QoE 
 | [financial-due-diligence-toolkit](https://github.com/pushpankjain/financial-due-diligence-toolkit) | Framework for QoE, EBITDA normalization, net debt bridging |
 | [market-sizing-india](https://github.com/pushpankjain/market-sizing-india) | TAM frameworks for Indian consumer markets - ethnic wear, FMCG, ice cream |
 | [pe-deal-memo-templates](https://github.com/pushpankjain/pe-deal-memo-templates) | Open-source IC paper & investment memo templates |
-| [ca-exam-notes](https://github.com/pushpankjain/ca-exam-notes) | ICAI CA Final structured notes - Strategic financial management, Audit, Costing, FInancial Reporting |
+| [about-ca](https://github.com/pushpankjain/ca-exam-notes) | ICAI CA Final structured notes - Strategic financial management, Audit, Costing, FInancial Reporting |
 
 ---
 
